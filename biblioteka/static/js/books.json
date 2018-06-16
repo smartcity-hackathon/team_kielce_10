@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "name": "Krzyżacy",
+    "author": "Henryk Sienkiewicz",
+    "category": "Fikcja historyczna",
+    "released": "1960",
+    "libraries": [
+      true, false, true, true, true, false, true, true, false, false, false, true, true, false, false, false
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Bieguni",
+    "author": "Olga Tokarczuk",
+    "category": "Literatura współczesna",
+    "released": "2015",
+    "libraries": [
+      true, false, false, true, true, false, false, true, false, true, false, true, true, false, false, false
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Czerwony pająk",
+    "author": "Katarzyna Bonda",
+    "category": "thriller/sensacja/kryminał",
+    "released": "2018",
+    "libraries": [
+      true, false, true, true, true, false, true, true, false, false, false, true, true, false, false, false
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Opowieść podręcznej",
+    "author": "Margaret Atwood",
+    "category": "literatura współczesna",
+    "released": "2017",
+    "libraries": [
+      true, false, true, true, true, false, true, true, false, false, false, true, true, false, false, false
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Żmijowisko",
+    "author": "Wojciech Chmielarz",
+    "category": "thriller/sensacja/kryminał",
+    "released": "2018",
+    "libraries": [
+      true, false, true, true, true, false, true, true, false, false, false, true, true, false, false, false
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Przesilenie",
+    "author": "Katarzyna Berenika Miszczuk",
+    "category": "fantastyka, fantasy, science fiction",
+    "released": "2018",
+    "libraries": [
+      true, false, true, true, true, false, true, true, false, false, false, true, true, false, false, false
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Zerwa",
+    "author": "Remigiusz Mróz",
+    "category": "thriller/sensacja/kryminał",
+    "released": "2018",
+    "libraries": [
+      true, false, true, true, true, false, true, true, false, false, false, true, true, false, false, false
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Kobieta w oknie",
+    "author": "A.J. Finn",
+    "category": "thriller/sensacja/kryminał",
+    "released": "2018",
+    "libraries": [
+      true, false, true, true, true, false, true, true, false, false, false, true, true, false, false, false
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Szeptucha",
+    "author": "Katarzyna Berenika Miszczuk",
+    "category": "fantastyka, fantasy, science fiction",
+    "released": "2016",
+    "libraries": [
+      true, false, true, true, true, false, true, true, false, false, false, true, true, false, false, false
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Macbeth",
+    "author": "Jo Nesbø",
+    "category": "thriller/sensacja/kryminał",
+    "released": "2018",
+    "libraries": [
+      true, false, true, true, true, false, true, true, false, false, false, true, true, false, false, false
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Za zamkniętymi drzwiami",
+    "author": "B. A. Paris",
+    "category": "thriller/sensacja/kryminał",
+    "released": "2017",
+    "libraries": [
+      true, false, true, true, true, false, true, true, false, false, false, true, true, false, false, false
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Tatuażysta z Auschwitz",
+    "author": "Heather Morris",
+    "category": "biografia/autobiografia/pamiętnik",
+    "released": "2018",
+    "libraries": [
+      true, false, true, true, true, false, true, true, false, false, false, true, true, false, false, false
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Dziewczyny z Dubaju",
+    "author": "Piotr Krysiak ",
+    "category": "literatura faktu",
+    "released": "2018",
+    "libraries": [
+      true, false, true, true, true, false, true, true, false, false, false, true, true, false, false, false
+    ]
+  },
+  {
+    "id": 14,
+    "name": "I że cię nie opuszczę",
+    "author": "Michelle Richmond",
+    "category": "thriller/sensacja/kryminał",
+    "released": "2018",
+    "libraries": [
+      true, false, true, true, true, false, true, true, false, false, false, true, true, false, false, false
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Kajko i Kokosz. Szkoła latania",
+    "author": "Janusz Christa",
+    "category": "komiksy",
+    "released": "2003",
+    "libraries": [
+      true, false, true, true, true, false, true, true, false, false, false, true, true, false, false, false
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Piekielna miłość",
+    "author": "K.N. Haner",
+    "category": "Literatura obyczajowa i romans",
+    "released": "2018",
+    "libraries": [
+      true, false, true, true, true, false, true, true, false, false, false, true, true, false, false, false
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Okruch",
+    "author": "Anna Ficner-Ogonowska",
+    "category": "Literatura obyczajowa i romans",
+    "released": "2018",
+    "libraries": [
+      true, false, true, true, true, false, true, true, false, false, false, true, true, false, false, false
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Lick",
+    "author": "Kylie Scott",
+    "category": "Literatura obyczajowa i romans",
+    "released": "2018",
+    "libraries": [
+      true, false, true, true, true, false, true, true, false, false, false, true, true, false, false, false
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Jak zawsze",
+    "author": "Zygmunt Miłoszewski",
+    "category": "Literatura piękna",
+    "released": "2017",
+    "libraries": [
+      true, false, true, true, true, false, true, true, false, false, false, true, true, false, false, false
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Tylko jedno spojrzenie",
+    "author": "Harlan Coben",
+    "category": "thriller/sensacja/kryminał",
+    "released": "2015",
+    "libraries": [
+      true, false, true, true, true, false, true, true, false, false, false, true, true, false, false, false
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Tylko tak",
+    "author": "Robert Tutaj",
+    "category": "kryminał",
+    "released": "2002",
+    "libraries": [
+      true, false, true, true, true, false, true, true, false, false, false, true, true, false, false, false
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Hobby",
+    "author": "Aneta Nowak",
+    "category": "thriller",
+    "released": "1999",
+    "libraries": [
+      true, false, true, true, true, false, true, true, false, false, false, true, true, false, false, false
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Tytan",
+    "author": "Jarek Szpak",
+    "category": "kryminał",
+    "released": "2011",
+    "libraries": [
+      true, false, true, true, true, false, true, true, false, false, false, true, true, false, false, false
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Samochody",
+    "author": "Dawid Zieja",
+    "category": "sensacja",
+    "released": "2008",
+    "libraries": [
+      true, false, true, true, true, false, true, true, false, false, false, true, true, false, false, false
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Porwanie",
+    "author": "Tommy Montana",
+    "category": "thriller",
+    "released": "2006",
+    "libraries": [
+      true, false, true, true, true, false, true, true, false, false, false, true, true, false, false, false
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Pokolenie",
+    "author": "Harlan Coben",
+    "category": "Horror",
+    "released": "2010",
+    "libraries": [
+      true, false, true, true, true, false, true, true, false, false, false, true, true, false, false, false
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Samolot",
+    "author": "Wiktor Tutaj",
+    "category": "thriller/sensacja",
+    "released": "1998",
+    "libraries": [
+      true, false, true, true, true, false, true, true, false, false, false, true, true, false, false, false
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Dusza umarłych",
+    "author": "Tommy Allen",
+    "category": "thriller/sensacja/kryminał",
+    "released": "2000",
+    "libraries": [
+      true, false, true, true, true, false, true, true, false, false, false, true, true, false, false, false
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Ostatni głos",
+    "author": "Michał Bochenek",
+    "category": "thriller",
+    "released": "2009",
+    "libraries": [
+      true, false, true, true, true, false, true, true, false, false, false, true, true, false, false, false
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Zostań",
+    "author": "Tommy Montana",
+    "category": "sensacja/kryminał",
+    "released": "2013",
+    "libraries": [
+      true, false, true, true, true, false, true, true, false, false, false, true, true, false, false, false
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Pies",
+    "author": "Harlan Coben",
+    "category": "thriller",
+    "released": "2002",
+    "libraries": [
+      true, false, true, true, true, false, true, true, false, false, false, true, true, false, false, false
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Szkoła",
+    "author": "Harlan Coben",
+    "category": "Horror",
+    "released": "2003",
+    "libraries": [
+      true, false, true, true, true, false, true, true, false, false, false, true, true, false, false, false
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Stonoga",
+    "author": "Robert Nowak",
+    "category": "kryminał",
+    "released": "2018",
+    "libraries": [
+      true, false, true, true, true, false, true, true, false, false, false, true, true, false, false, false
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Pitbul",
+    "author": "Patryk Vega",
+    "category": "thriller/sensacja/kryminał",
+    "released": "2017",
+    "libraries": [
+      true, false, true, true, true, false, true, true, false, false, false, true, true, false, false, false
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Opuszczony dom",
+    "author": "Patryk Czarnowski",
+    "category": "thriller/sensacja",
+    "released": "2015",
+    "libraries": [
+      true, false, true, true, true, false, true, true, false, false, false, true, true, false, false, false
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Zaćmienie",
+    "author": "Harlan Coben",
+    "category": "thriller/sensacja/kryminał",
+    "released": "2012",
+    "libraries": [
+      true, false, true, true, true, false, true, true, false, false, false, true, true, false, false, false
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Samotni",
+    "author": "Szymon Odo",
+    "category": "thriller/sensacja/kryminał",
+    "released": "2004",
+    "libraries": [
+      true, false, true, true, true, false, true, true, false, false, false, true, true, false, false, false
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Czołgi",
+    "author": "Patryk Nowak",
+    "category": "thriller/sensacja/kryminał",
+    "released": "1984",
+    "libraries": [
+      true, false, true, true, true, false, true, true, false, false, false, true, true, false, false, false
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Smok i tygrys",
+    "author": "Harlan Coben",
+    "category": "thriller/sensacja/kryminał",
+    "released": "2005",
+    "libraries": [
+      true, false, true, true, true, false, true, true, false, false, false, true, true, false, false, false
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Teren",
+    "author": "Filip Słoń",
+    "category": "thriller",
+    "released": "2015",
+    "libraries": [
+      true, false, true, true, true, false, true, true, false, false, false, true, true, false, false, false
+    ]
+  }
+]

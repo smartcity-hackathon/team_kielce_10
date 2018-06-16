@@ -1,0 +1,40 @@
+{% load staticfiles %}
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Book Sharing</title>
+    <link rel="stylesheet" href="{% static '/css/share.css' %}">
+  </head>
+  <body>
+    <div class="overlay"></div>
+    <section>
+      <h1>Udostępnij<br>książke</h1>
+
+      <form class="" action="add_book" method="POST">{% csrf_token %}
+        <div>
+          <div>
+            <input type="text" id="title" name="tytul" placeholder="Tytuł">
+            <input type="text" id="author" name="autor" placeholder="Autor">
+            <input type="text" id="release" name ="wersja" placeholder="Wersja">
+          </div>
+          <select style="margin-bottom: 20px" name="kategoria">
+            <option value="dramat">Dramat</option>
+            <option value="horror">Horror</option>
+            <option value="thriller">Thriller</option>
+            <option value="kryminal">Kryminał</option>
+            <option value="fantastyka">Fantastyka</option>
+            <option value="biografia">Biografia</option>
+            <option value="science-fiction">Science-fiction</option>
+            <option value="literatura-faktu">Literatura faktu</option>
+            <option value="pamietnik">Pamiętnik</option>
+            <option value="komiks">Komiks</option>
+          </select>
+        </div>
+
+        <input type="submit" id="sbm" value="Dodaj">
+      </form>
+    </section>
+  </body>
+</html>

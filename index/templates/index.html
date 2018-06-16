@@ -1,0 +1,40 @@
+{% load staticfiles %}
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Book Sharing</title>
+    <link rel="stylesheet" href="{% static '/css/master.css' %}">
+  </head>
+  <body>
+    <div class="overlay"></div>
+    <section>
+      <h1>BookShelf</h1>
+      <h2>Internetowa półka na książki</h2>
+
+      <div class="content">
+        <div>
+          <a href="biblioteka/" data-tilt class="tilt">
+            <h3>Szukaj<br>książki</h3>
+          </a>
+        </div>
+
+        <div>
+          <a href="book_share/" data-tilt class="tilt">
+            <h3>Book<br>Share</h3>
+          </a>
+        </div>
+
+        <div>
+          <a href="rezerwuj/" data-tilt class="tilt">
+            <h3>Zarezerwuj<br>książkę</h3>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <script type="text/javascript" src="{% static '/js/universal-tilt.min.js' %}"></script>
+    <script type="text/javascript" src="{% static '/js/index.js' %}"></script>
+  </body>
+</html>

@@ -1,0 +1,34 @@
+{% load staticfiles %}
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rezerwacja</title>
+    <link rel="stylesheet" href="{% static '/css/rezerwacja.css' %}">
+  </head>
+  <body>
+    <div class="overlay"></div>
+    <section>
+      <h1>Rezerwacja</h1>
+      <h2>Nie znalazłeś książki? Zarezezerwuj ją!</h2>
+
+      <div class="content">
+        <div>
+          <a href="dodaj/" data-tilt class="tilt">
+            <h3>Dodaj<br>rezerwację</h3>
+          </a>
+        </div>
+
+        <div>
+          <a href="szukaj/" data-tilt class="tilt">
+            <h3>Lista<br>rezerwacji</h3>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <script type="text/javascript" src="{% static '/js/universal-tilt.min.js' %}"></script>
+    <script type="text/javascript" src="{% static '/js/index.js' %}"></script>
+  </body>
+</html>
